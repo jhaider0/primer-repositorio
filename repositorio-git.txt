@@ -1,0 +1,11 @@
+Repaso de comandos GIT
+COMANDOS:
+1: git add //agregar cambios al archivos
+2: git init //iniciar repositorio 
+3: git config --global user.name "arnold" // establecer nombre de usuario 
+4: git config --global user email "°°°"  // establecer el correo electronico
+5: git config --global user name  // para confirmar el nombre
+6: git config --global user email // para confirmar el coreo 
+7: clear // para borrar codigos
+8: git push -u origin master //subir tus comi locales a repositorio
+9: git estatus //mostrar estado atual del repositorio
